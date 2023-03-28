@@ -1,0 +1,199 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    background-color: #EAF6F6;
+}
+img {
+    height: 250px;
+    border-radius: 50%;
+}
+table {
+    padding: 3rem;
+}
+.information {
+    padding-left: 3rem;
+}
+button {
+    background-color: #143F68;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    color: #ffff;
+}
+button:hover {
+    background: silver;
+}
+hr {
+    border: 3px dashed #143F68;
+}
+h1 {
+    color: #143F68;
+}
+.header {
+    text-transform: uppercase;
+}
+.Education tr td {
+    padding: 1rem;
+}
+h2 {
+    color: rgba(0, 100, 0, 0.795);
+}
+/* .contact {
+    color: #EAF6F6;
+} */
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: flex-end;
+    background: #143F68;
+    height: 25rem;
+}
+footer div {
+    color: white;
+}
+td {
+    padding-right: 2rem;
+}
+.red {
+    width: 100px ;
+    height: 100px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 12.5rem;
+    flex-direction: column;
+
+}
+.yellow {
+    width: 100px ;
+    height: 100px;
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    flex-direction: column;
+    
+}
+.blue {
+    width: 100px ;
+    height: 100px;
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 25rem;
+    flex-direction: column;
+    /* position: relative; */
+}
+.container {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.blue:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.red:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.yellow:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.cyan {
+    width: 100px ;
+    height: 100px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 12.5rem;
+    flex-direction: column;
+
+}
+.green {
+    width: 100px ;
+    height: 100px;
+    background: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 400px;
+    flex-direction: column;
+    
+}
+.plum {
+    width: 100px ;
+    height: 100px;
+    background: plum;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    flex-direction: column;
+}
+
+.plum:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.cyan:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.green:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+
+
+i {
+    font-size: 3rem;
+   
+}
+
+
+
+/* Icon.html */
+
+
