@@ -1,0 +1,138 @@
+.red {
+    width: 100px ;
+    height: 100px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 12.5rem;
+    flex-direction: column;
+
+}
+.yellow {
+    width: 100px ;
+    height: 100px;
+    background: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    flex-direction: column;
+    
+}
+.blue {
+    width: 100px ;
+    height: 100px;
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 25rem;
+    flex-direction: column;
+    /* position: relative; */
+}
+.container {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.blue:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.red:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.yellow:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.cyan {
+    width: 100px ;
+    height: 100px;
+    background: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 12.5rem;
+    flex-direction: column;
+
+}
+.green {
+    width: 100px ;
+    height: 100px;
+    background: lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    margin-left: 400px;
+    flex-direction: column;
+    
+}
+.plum {
+    width: 100px ;
+    height: 100px;
+    background: plum;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 400ms all ease;
+    flex-direction: column;
+}
+
+.plum:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.cyan:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+.green:hover {
+    background: gray;
+    width: 200px;
+    height: 200px;
+    transition: 800ms all ease;
+    flex-flow: column;
+    color: #EAF6F6;
+}
+
+
+i {
+    font-size: 3rem;
+   
+}
+
+
+
+/* Icon.html */
+
+
