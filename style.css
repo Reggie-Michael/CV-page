@@ -5,6 +5,7 @@
 
 body {
     background-color: #EAF6F6;
+    font-family: Arial, Helvetica, sans-serif;
 }
 img {
     height: 250px;
@@ -12,6 +13,12 @@ img {
 }
 table {
     padding: 3rem;
+}
+.Education {
+    font-size: 36px;
+}
+.Academic {
+    font-size: 36px;
 }
 .information {
     padding-left: 3rem;
